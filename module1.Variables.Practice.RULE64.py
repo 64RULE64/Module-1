@@ -10,9 +10,9 @@ print (' ')
 # Курс: Python, всего задач:12, затрачено часов: 1.5, среднее время выполнения 0.125 часа.
 name = 'Konstantin'
 complete_dz = 12
-loadHours = 1.5
+load_hours = 1.5
 course = 'Python'
-print('Курс: ', course, ', всего задач: ', complete_dz , ', затрачено часов: ', loadHours , ', среднее время выполнения: ' , (loadHours/complete_dz), ' часа.' )
+print('Курс: ', course, ', всего задач: ', complete_dz , ', затрачено часов: ', load_hours , ', среднее время выполнения: ' , (load_hours/complete_dz), ' часа.' )
 print (' ')
 print ('       The programm is ready')
 print (' ')
